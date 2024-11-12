@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Madelu Lopes 🖐🏾
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/madelu-lopes-089388120)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelu-lopes-089388120)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madelul87)
 
 ## Tecnologias que eu uso no meu dia
