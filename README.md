@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Madelu Lopes 🖐🏾
+### Bem-vindos ao meu github! Vamos compartilhar conhecimentos e trocar ideias!
+
 Sou natural de Fortaleza-CE, estudante de Analise e desenvolvimento de sistemas e Ciência de Dados. Ainda não possuo experiência, mas busco me empenhar nos estudos e pesquisar acerca da tecnologia.  Participei de projetos de Machine Learning onde estudavamos soluções para problemas reais do dia-a-dia com foco na linguaguem Python. Também partcipei da comunidade lasec, comunidade voltada aos estudos e pesquisas sobre cybersegurança tudo por meio do Centro Universtário UniATENEU. 
-###Bem-vindos ao meu github! Vamos compartilhar conhecimentos e trocar ideias!
+
 
 
 
