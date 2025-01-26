@@ -1,9 +1,15 @@
 ### Olá! Eu sou a Madelu Lopes 🖐🏾
 ### Bem-vindos ao meu github! Vamos compartilhar conhecimentos e trocar ideias!
 
-Sou natural de Fortaleza-CE, estudante de Analise e desenvolvimento de sistemas e Ciência de Dados. Ainda não possuo experiência, mas busco me empenhar nos estudos e pesquisar acerca da tecnologia.  Participei de projetos de Machine Learning onde estudavamos soluções para problemas reais do dia-a-dia com foco na linguaguem Python. Também participei da comunidade lasec, comunidade voltada aos estudos e pesquisas sobre cybersegurança tudo por meio do Centro Universtário UniATENEU. 
+"Madelu é uma analista de sistemas em constante evolução, com foco em transformar dados em insights valiosos. Atualmente, estou cursando Análise e Desenvolvimento de sistemas pela UniAteneu.
+
+Sou uma entusiasta de Ciência de Dados em constante aprendizado. Atualmente, estou participando do Programa de Capacitação em Ciência de Dados do MCTI C-Jovem, onde estou desenvolvendo habilidades em Python, Análise preditiva, criação de modelos supervisionado e não supervisionado para soluções de problemas de negócios como classificar grupos de clientes em uma loja online, propor um solução de modelo usando aprendizado supervisionado para classificar e-mails de uma empresa em spam e não spam e implementar um modelo para prever valores de imóveis.
+
+Meu objetivo é aplicar meus conhecimentos para a criação de soluções de dados que melhorem a vida das pessoas. Acredito que a Ciência de Dados tem o potencial de revolucionar diversos setores e estou ansiosa para aplicar meus conhecimentos em projetos que gerem impacto positivo na sociedade.".
 
 
+* Experiência acadêmica em HTML e CSS (Bootstrap)
+* Experiência acadêmica em Ciência de dados (Python)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelu-lopes-089388120)
