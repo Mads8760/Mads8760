@@ -14,7 +14,7 @@ Meu objetivo é aplicar meus conhecimentos para a criação de soluções de dad
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelu-lopes-089388120)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madelul87)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-#20BEFF?logo=kaggle&logoColor=white&stle=for-the-badge)
+[![Kaggle](https://img.shields.io/badge/Kaggle-#20BEFF?logo=kaggle&logoColor=white&stle=for-the-badge)
 
 
 
